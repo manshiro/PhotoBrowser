@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:PhotoBrowserExample/PhotoBrowserExample.xcodeproj">
+      location = "group:Example/PhotoBrowserExample.xcodeproj">
    </FileRef>
    <FileRef
       location = "container:PhotoBrowser.xcodeproj">
